@@ -9,6 +9,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-FFC107?style=for-the-badge&logo=json&logoColor=black)
 
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
